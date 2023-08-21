@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body {
+    text-align: center;
+}
+
+div 
+{
+    margin-bottom: 5px; 
+    
+}
+
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.container
+{
+    width: 400px;
+    background-color:darkgrey;
+    padding: 10px;
+    font-family: inherit;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.container-fluid{
+    margin-top: 3px;
+    font-family: inherit;
+}
+
+div button {
+    background-color:rgb(3, 3, 3);
+    color: #fff;
+    border: 1px solid rgb(3, 3, 3);
+    border-radius: 5px;
+}
